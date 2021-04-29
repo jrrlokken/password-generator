@@ -29,7 +29,7 @@ h2 {
 }
 
 .result-container {
-  background-color: rgb(31,32,37);
+  background-color: rgb(82, 83, 88);
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -39,6 +39,7 @@ h2 {
   padding: 12px 10px;
   letter-spacing: 1px;
   font-size: 18px;
+  border-radius: 8px;
 }
 
 .result-container .btn {
